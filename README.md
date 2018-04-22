@@ -1,4 +1,8 @@
 # Client-side WebSocket Tester
+
+Try it out at my github.io page! [Client-side WebSocket Tester](https://tomansill.github.io/ClientWebSocketTester/build/ClientWebSocketTester.html)
+
+# Description
 A simple Client-side WebSocket testing suite for your WebSocket testing needs. I created this because "Simple Websocket Client" extension [[Chrome](https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/simple-websocket-client/)] did not work quite well for me. It couldn't let me know if the server has closed the connection. If I type in the wrong URL and tried to open the connection, it simply opens an alert dialog that says 'undefined'. I need a better WebSocket client than this so I created this one.
 
 ## Features
