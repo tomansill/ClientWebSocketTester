@@ -1,0 +1,36 @@
+{
+  "name": "clientwebsockettester",
+  "version": "1.0.0",
+  "description": "Client-side WebSocket Testing Suite",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomansill/ClientWebSocketTester.git"
+  },
+  "keywords": [
+    "WebSocket",
+    "client",
+    "client-side",
+    "testing",
+    "test"
+  ],
+  "author": "tom@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tomansill/ClientWebSocketTester/issues"
+  },
+  "homepage": "https://github.com/tomansill/ClientWebSocketTester#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-htmlmin": "^2.4.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-processhtml": "^0.4.1",
+    "grunt-uncss": "^0.8.3"
+  }
+}
