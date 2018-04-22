@@ -9,8 +9,8 @@ A simple Client-side WebSocket testing suite for your WebSocket testing needs. I
 - Minimal single .html file consisting of only ~21 kilobytes in size
 - Fully Client-side - You can download the .html file and run it in your computer
 - No dependency - Everything the application needs is included in the .html... except for WebSocket functionality.
-- Looks great with [Bootstrap v4](getbootstrap.com)
-- Actually works
+- Looks great
+- Actually works!
 
 ## Usage
 **Method #1:** Navigate `build/ClientWebSocketTester.html` and download the file. Then open the file you just downloaded with your favorite WebSocket-supported web browser.
@@ -40,6 +40,11 @@ Grunt will automatically build the application by following the instructions in 
 ## License
 GPL-3.0
 
+## Big Thanks to
+- Tim Holman for making sexy SVG Github corners https://github.com/tholman/github-corners
+- Bootstrap Team https://getbootstrap.com
+
 ## Author
 By: Tom Ansill
-2018/04/22
+
+Date: 2018/04/22
