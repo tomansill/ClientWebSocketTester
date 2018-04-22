@@ -34,9 +34,8 @@ grunt
 Grunt will automatically build the application by following the instructions in `grunt.js` file. What it does is it will create tmp/ directory in the Git directory, then it will pull files from inside of `src/` and clean/minify it then it will place the application in `build/`. Navigate to the `build/` and you will see `ClientWebSocketTester.html` file in there all ready to go. You may delete the tmp directory when you're done with the build.
 
 ## License
-----
 GPL-3.0
 
 ## Author
-----
-Tom Ansill
+By: Tom Ansill
+2018/04/22
