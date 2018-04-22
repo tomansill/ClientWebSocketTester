@@ -25,6 +25,7 @@ cd ClientWebSocketTester
 npm install
 ```
 NPM will read the package.json and install what package.json requires for building.
+
 3) Then you're ready to build the application. Run the following to build the application:
 ```sh
 grunt
