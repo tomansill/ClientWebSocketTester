@@ -9,6 +9,7 @@ A simple Client-side WebSocket testing suite for your WebSocket testing needs. I
 
 # Usage
 **Method #1:** Browse build/ClientWebSocketTester.html and download the file. Then open the file you just downloaded with your favorite WebSocket-supported web browser.
+
 **Method #2:** Browse src/ and download entire directory. Then open the ClientWebSocketTester.html with your favorite WebSocket-supported web browser.
 
 # Build
